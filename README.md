@@ -24,8 +24,8 @@ This project focuses on exploratory data analysis (EDA) of ride booking data to 
 - Booking value is not strictly distance-based and is influenced by factors such as vehicle type, surge pricing, and time of booking.
 
 ## Repository Contents
-- `Ride_Booking_and_Cancellation_Analysis.ipynb` – analysis notebook
-- `ride_bookings_and_cancellations.csv` - dataset file
+- `Ride_Booking_and_Cancellation_Analysis.ipynb` – Jupyter Notebook containing the full analysis
+- `ride_bookings_and_cancellations.csv` - Dataset used for the analysis
 
 ## Conclusion
 This project demonstrates an end-to-end exploratory data analysis using Pandas, NumPy, and Matplotlib to derive business-driven insights on ride bookings and cancellations.

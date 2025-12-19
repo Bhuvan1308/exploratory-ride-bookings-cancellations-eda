@@ -25,7 +25,7 @@ This project focuses on exploratory data analysis (EDA) of ride booking data to 
 
 ## Repository Contents
 - `Ride_Booking_and_Cancellation_Analysis.ipynb` – analysis notebook
-- Dataset file (if included)
+- `ride_bookings_and_cancellations.csv` - dataset file
 
 ## Conclusion
 This project demonstrates an end-to-end exploratory data analysis using Pandas, NumPy, and Matplotlib to derive business-driven insights on ride bookings and cancellations.
